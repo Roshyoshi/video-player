@@ -1,0 +1,10 @@
+# Meson/Ninja build directory
+builddir/
+# Compilation database
+compile_commands.json
+# Binaries
+player
+# Editor specific
+.vscode/
+.idea/
+*.swp
